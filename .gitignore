@@ -1,0 +1,4 @@
+#.env.prod
+#.env.prod.db
+/services/web/env/*
+__pycache__
